@@ -1,11 +1,17 @@
 import React from 'react';
+import { NewsContextProvider } from './NewsContext';
+import News from './components/News';
+
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>News app</h1>
-    </div>
+    <NewsContextProvider>
+      <div className="App">
+        <News></News>
+      </div>
+    </NewsContextProvider>
+
   );
 }
 
