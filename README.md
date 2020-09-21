@@ -1,3 +1,10 @@
+# News App 👋
+
+![React App](https://user-images.githubusercontent.com/55262061/93487387-9801c300-f8db-11ea-9b6b-1c74aff4c0e9.gif)
+
+## Projeto reactjs usando `contex API, react Hooks e axios`
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
