@@ -8,7 +8,7 @@ function News() {
 
     return (
         <>
-            <h1 className="header__title">News App 👋</h1>
+            <h1 className="header__title">News App </h1>
             <div className="all__news">
 
                 {data ?
